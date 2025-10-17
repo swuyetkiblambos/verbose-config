@@ -4,10 +4,10 @@
 	"startapp": "false",
 	"admob_appid": "",
 	"admob_bannerid": "",
-	"admob_intertestial_id": "",
-	"admob_open_ad": "",
+	"admob_intertestial_id": "ca-app-pub-6602996705441914/7088761957",
+	"admob_open_ad": "ca-app-pub-6602996705441914/8584455264",
 	"facebook_banner": "660173061766769_660175241766551",
 	"facebook_intertesial": "660173061766769_660175355099873",
 	"startapp_id": "207722204",
-	"intertestial_clicks": "4"
+	"intertestial_clicks": "6"
 }
